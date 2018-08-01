@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from PyQt5 import sip
 import PIL,sys,PyQt5,matplotlib
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import *
